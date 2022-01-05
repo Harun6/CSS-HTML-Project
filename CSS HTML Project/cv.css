@@ -1,0 +1,111 @@
+/* Anasayfa Kısmı İçin */
+body {
+    background: grey;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+nav {
+    background: sandybrown;
+    text-align: center;
+    word-spacing: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+figure {
+    
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.bilgi {
+    color: black;
+    text-align: center;
+}
+
+/* Özgeçmiş Kısmı için */
+h2 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.table {
+    width: 100%;
+}
+
+th, td{
+    border: 1px solid black;
+    text-align: center;
+    border-style: dotted;
+}
+
+/* İletişim Kısmı için */
+.alt{
+    width: 100%;
+}
+.medya{
+    width: 5%;
+    float: left;
+}
+.insta{
+    width: 25%;
+    height: 20%;
+}
+.twitter{
+    width: 25%;
+    height: 20%;
+}
+.facebook{
+    width: 25%;
+    height: 20%;
+}
+.linkedin{
+    width: 25%;
+    height: 20%;
+}
+.github{
+    width: 25%;
+    height: 20%;
+}
+
+.bilgiler1{
+    text-align: left;
+}
+.bilgiler p{
+    text-align: left;
+}
+
+.hesap{
+    text-align: left;
+    text-indent: 0;
+}
+
+
+.footer{
+    clear: both;
+    font-size: medium;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.color{
+    color: black;
+}
